@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm KUNDURU AKHILA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate from VLSI Layout Engineer from India</h3>
 
 - 🌱 I’m currently learning **vlsi,verilog,java**
 
